@@ -1635,6 +1635,7 @@ font-size: 35px;
     width: 290px;
     height: 350px;
     position: relative;
+    overflow: hidden;
 }
 
 .page9 .main .box::after {
@@ -1691,6 +1692,7 @@ font-size: 35px;
     opacity: 0;
     height: 0;
     transition: all 0.3s;
+    overflow: hidden;
 }
 
 .page9 .main .box .small h3 {
